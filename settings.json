@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "NetWorldMC.aternos.me",
+    "port": 45437,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -28,6 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
+      "private-recipient": "jhoonelpardo",
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
